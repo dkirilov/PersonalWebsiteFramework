@@ -1,0 +1,7 @@
+# PersonalWebsiteFramework's config file example
+ExampleSettingOne = "string setting value";
+ExampleSettingTwo = 3288321;
+ExampleSettingThree = 45.123;
+ExampleSettingFour = true;
+
+
